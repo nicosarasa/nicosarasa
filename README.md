@@ -12,4 +12,5 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original-wordmark.svg" title="C" width="40" height="40"/>&nbsp;
 </div>
